@@ -5,12 +5,18 @@ The project focuses on getting away with the manual complexity students face whi
 
 Specific, to VIT Bhopal each semester a unique FFCS (Fully Flexible Credit System) is provided to the students so that they can make their own timetable. However, many inherent complexities are involved in this process and often the students have to toil hard manually to get their desired and suitable timetable.
 
-## Installation:
+## Installation :
 1. Install all the files of the repository.
 2. Ensure all the packages/libraries mentioned below are installed.
 3. Run python **main.py** project directory.
 
-## Usage:
+## Libraries / Packages :
+1. pysqlite3
+2. Numpy
+3. PyQT5
+4. psutil
+
+## Usage :
 1. Add instructors
 ~ Add Name, Available Hours 
 2. Add rooms
@@ -24,4 +30,4 @@ Specific, to VIT Bhopal each semester a unique FFCS (Fully Flexible Credit Syste
 9. Export or View Result
 
 ## Project Documentation :
-View the [Complete Project Report] here !!! (https://drive.google.com/file/d/1z8FiJYItEjplZgwuQPzrOL5BE9lVkIdm/view?usp=sharing)
+View the [Complete Project Report](https://drive.google.com/file/d/1z8FiJYItEjplZgwuQPzrOL5BE9lVkIdm/view?usp=sharing) here !!! 

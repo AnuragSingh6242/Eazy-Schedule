@@ -17,17 +17,12 @@ Specific, to VIT Bhopal each semester a unique FFCS (Fully Flexible Credit Syste
 4. psutil
 
 ## Usage :
-1. Add instructors
-~ Add Name, Available Hours 
-2. Add rooms
-~ Add Name, Type
-3. Add subjects
-~ Add Name, Hours/week, Select Teacher
-4. Add sections
-~ Club the different subject / teacher selections together
-5. Generate solution
-~ Click Generate
-9. Export or View Result
+1. Add Instructors   ~  Add Name, Available Hours 
+2. Add Rooms         ~  Add Name, Type ( Lec / Labs )
+3. Add Subjects      ~  Add Name, Hours/week, Type ( Lec / Labs ), Select Teacher
+4. Add Sections      ~  Club the different subject / teacher selections together
+5. Generate Solution ~  Click Generate
+6. Export or View Result
 
 ## Project Documentation :
 View the [Complete Project Report](https://drive.google.com/file/d/1z8FiJYItEjplZgwuQPzrOL5BE9lVkIdm/view?usp=sharing) here !!! 

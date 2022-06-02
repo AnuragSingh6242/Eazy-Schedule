@@ -1,5 +1,5 @@
 # Eazy-Schedule
-Projection Exhibiton - II ( Machine Learning )
+**Projection Exhibiton - II ( Machine Learning )**
 
 The project focuses on getting away with the manual complexity students face while formulating their college timetables by providing them a ready to use, easy and efficient tool to automatically generate their timetables using machine learning algorithms.
 
